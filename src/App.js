@@ -1,5 +1,6 @@
-import logo from './logo.svg';
+
 import './App.css';
+import Menu from './componets/MenuComponet';
 import {Navbar ,NavbarBrand} from 'reactstrap'
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
           <NavbarBrand href="/">Ristorante con Fusion</NavbarBrand>
         </div>
       </Navbar>
+      <Menu/>
     </div>
   );
 }
