@@ -60,7 +60,7 @@ const DishDetail = (props) => {
       </div>
     );
   } else {
-    return <div>this is fucked up</div>;
+    return <div></div>;
   }
 };
 
