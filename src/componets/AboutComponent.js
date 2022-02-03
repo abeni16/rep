@@ -49,6 +49,7 @@ function About(props) {
         <div className="col-12 col-md-6">
           <h2>Our History</h2>
           <p>
+            added
             Started in 2010, Ristorante con Fusion quickly established itself as
             a culinary icon par excellence in Hong Kong. With its unique brand
             of world fusion cuisine that can be found nowhere else, it enjoys
