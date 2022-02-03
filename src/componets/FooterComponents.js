@@ -27,9 +27,9 @@ function Footer(props) {
             <address>
               121, Clear Water Bay Road
               <br />
-              Clear Water Bay, Kowloon
+              ADDIS WATER
               <br />
-              HONG KONG
+              ADISS ABABA
               <br />
               <i className="fa fa-phone fa-lg"></i>: +852 1234 5678
               <br />
