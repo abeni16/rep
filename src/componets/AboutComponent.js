@@ -51,6 +51,8 @@ function About(props) {
           <p>
             Started in 2022, Ristorante con Fusion quickly established itself as
             a culinary icon par excellence in Addis Ababa,Ethiopia. With its unique brand
+            Started in 2013, Ristorante con Fusion quickly established itself as
+            a culinary icon par excellence in Tokyo. With its unique brand
             of world fusion cuisine that can be found nowhere else, it enjoys
             patronage from the A-list clientele in Hong Kong. Featuring four of
             the best three-star Michelin chefs in the world, you never know what
