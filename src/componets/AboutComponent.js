@@ -48,7 +48,7 @@ function About(props) {
       <div className="row row-content">
         <div className="col-12 col-md-6">
           <h2>Our History</h2>
-          <p>
+          <p id="color">
             Started in 2022, Ristorante con Fusion quickly established itself as
             a culinary icon par excellence in Addis Ababa,Ethiopia. With its unique brand
             Started in 2013, Ristorante con Fusion quickly established itself as
