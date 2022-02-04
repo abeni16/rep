@@ -51,13 +51,13 @@ class Contact extends Component {
             <address>
               121, Clear Water Bay Road
               <br />
-              Clear Water Bay, Kowloon
+              TOP WATER PLC
               <br />
-              HONG KONG
+              ADISS ABABA
               <br />
-              <i className="fa fa-phone"></i>: +852 1234 5678
+              <i className="fa fa-phone"></i>: +251 991 219 569
               <br />
-              <i className="fa fa-fax"></i>: +852 8765 4321
+              <i className="fa fa-fax"></i>: +251 955 430 554
               <br />
               <i className="fa fa-envelope"></i>:{" "}
               <a href="mailto:confusion@food.net">confusion@food.net</a>
