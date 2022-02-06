@@ -49,15 +49,15 @@ class Contact extends Component {
           <div className="col-12 col-sm-4 offset-sm-1">
             <h5>Our Address</h5>
             <address>
-              121, Clear Water Bay Road
+              AASTU
               <br />
-              Clear Water Bay, Kowloon
+              block 8
               <br />
-              HONG KONG
+              ADISS ABABA,Ethiopia
               <br />
-              <i className="fa fa-phone"></i>: +852 1234 5678
+              <i className="fa fa-phone"></i>: +251 991 219 569
               <br />
-              <i className="fa fa-fax"></i>: +852 8765 4321
+              <i className="fa fa-fax"></i>: +251 955 430 554
               <br />
               <i className="fa fa-envelope"></i>:{" "}
               <a href="mailto:confusion@food.net">confusion@food.net</a>
