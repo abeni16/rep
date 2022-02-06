@@ -49,11 +49,11 @@ class Contact extends Component {
           <div className="col-12 col-sm-4 offset-sm-1">
             <h5>Our Address</h5>
             <address>
-              121, Clear Water Bay Road
+              AASTU
               <br />
-              TOP WATER PLC
+              block 8
               <br />
-              ADISS ABABA
+              ADISS ABABA,Ethiopia
               <br />
               <i className="fa fa-phone"></i>: +251 991 219 569
               <br />
