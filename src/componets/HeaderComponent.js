@@ -83,7 +83,7 @@ class Header extends Component {
                 </NavItem>
                 <NavItem>
                   <NavLink className="nav-link" to="/contactus">
-                    <span className="fa fa-address-card fa-lg"></span>Contact us
+                    <span className="fa fa-address-card fa-lg"></span>Contact
                   </NavLink>
                 </NavItem>
               </Nav>
@@ -104,8 +104,8 @@ class Header extends Component {
                 <h1>Ristorante Fusion</h1>
                 <p>
                   We take inspiration from the World's best cuisines, and create
-                  a unique fusion experience. Our lipsmacking creations will
-                  tickle your culinary senses!
+                  a fusion experience. Our lipsmacking creations will tickle
+                  your culinary senses!
                 </p>
               </div>
             </div>
