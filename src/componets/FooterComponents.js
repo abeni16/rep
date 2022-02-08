@@ -31,7 +31,7 @@ function Footer(props) {
               <br />
               ADISS ABABA
               <br />
-              <i className="fa fa-phone fa-lg"></i>: +256 1234 5678
+              <i className="fa fa-phone fa-lg"></i>: +123 1234 5678
               <br />
               <i className="fa fa-fax fa-lg"></i>: +852 8765 4321
               <br />
