@@ -36,6 +36,9 @@ class Main extends Component {
         />
       );
     };
+    const ContactPage = () => {
+      return <Contact />;
+    };
     const DishWithId = ({ match }) => {
       return (
         <DishDetail
@@ -65,7 +68,7 @@ class Main extends Component {
             component={() => <About leaders={this.props.leaders} />}
           />
           <Route path="/menu/:dishId" component={DishWithId} />
-          <Route exact path="/contactus" component={Contact} />
+          <Route exact path="/contactus" component={ContactPage} />
           <Redirect to="/home" />
         </Switch>
         <Footer />
