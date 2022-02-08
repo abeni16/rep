@@ -25,7 +25,7 @@ function Footer(props) {
           <div className="col-7 col-sm-5">
             <h5>Our Address</h5>
             <address>
-              121, Clear Water Bay Road
+              121, Clear Water Bay
               <br />
               ADDIS WATER
               <br />
