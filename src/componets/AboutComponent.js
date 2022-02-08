@@ -82,7 +82,7 @@ function About(props) {
             </CardBody>
           </Card>
         </div>
-        <div className="col-12">
+        <div className="col-12 col-md-8">
           <Card>
             <CardBody className="bg-faded">
               <blockquote className="blockquote">
@@ -103,7 +103,7 @@ function About(props) {
         </div>
       </div>
       <div className="row row-content">
-        <div className="col-12">
+        <div className="col-12   ">
           <h2>Corporate Leadership</h2>
         </div>
         <div className="col-12">
