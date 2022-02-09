@@ -28,6 +28,12 @@ const Menu = (props) => {
   const menu = props.dishes.map((dish) => {
     return <RenderMenuItem dish={dish} />;
   });
+  var sectionStyle = {
+    width: "100%",
+    height: "400px",
+    backgroundImage:
+      "https://www.shutterstock.com/image-vector/soup-meat-mushrooms-quail-eggs-onions-1681448320",
+  };
   return (
     <div className="container">
       <div className="row">

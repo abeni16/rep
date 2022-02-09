@@ -25,13 +25,14 @@ function Footer(props) {
           <div className="col-7 col-sm-5">
             <h5>Our Address</h5>
             <address>
-              121, Clear Water Bay Road
+              121, Clear Water Bay
               <br />
-              Clear Water Bay, Kowloon
+              ADDIS WATER
               <br />
-              HONG KONG
+              ADISS ABABA
               <br />
-              <i className="fa fa-phone fa-lg"></i>: +852 1234 5678
+              <i className="fa fa-phone fa-lg"></i>: 
+              <h1>+123 1234 5678</h1>
               <br />
               <i className="fa fa-fax fa-lg"></i>: +852 8765 4321
               <br />
